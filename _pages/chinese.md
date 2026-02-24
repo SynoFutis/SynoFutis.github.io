@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "中文"
+permalink: /Chinese/
 author_profile: true
 redirect_from:
   - /resume
+  - /Chinese
 ---
 
 关于我
