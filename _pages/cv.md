@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng. in Integrated Circuits, Southeast University, 2028 (expected)
+* B.S. in Electronic Science and Technology, Southeast University, 2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research on Semantic Segmentation Algorithms for UAV Perspectives
+  * Undergraduate Thesis Project, Dec. 2024 - Jun. 2025
+  * Model Optimization: Applied transfer learning to optimize a semantic segmentation model based on UAV imagery for natural disaster damage recognition.
+  * Scenario Adaptation: Specifically optimized the model for the top-down perspective of UAVs and resource-constrained (low-computing-power) scenarios.
+  * Architecture Adjustment: Modified the convolutional layer architecture to significantly reduce computational overhead.
+  * Structure Refactoring: Refactored the computation structure of deconvolutional and normalization layers, further reducing computational load while enhancing recognition accuracy.
+  * Performance Improvement: Implemented a bounding box approach to improve the overall recognition rate of the model.
+  * Advisor: Prof. Meng Zhang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Project: Design and Development of a Miniature Raman Spectrometer
+  * Embedded Software: Developed driver software and function selection routines for the miniature Raman spectrometer.
+  * Optical System: Constructed both direct and reflective measurement optical paths for the system.
+  * System Integration: Integrated hardware and software components to enable versatile measurement capabilities.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Honors and Awards
+======
+* 2025 Taihu Scholarship (Third Prize)
+* 2024 University Merit Student, Southeast University
+* 2024 "Star Volunteer", Wu Jianxiong College, Southeast University
+* 2023 National College Student Physics Experiment Competition (National Second Prize)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hardware Description & Programming
+  * HDL: Verilog
+  * Languages: Python, C/C++, Tcl
+* Digital IC Design
+  * Simulation: Mentor Graphics ModelSim, HSpice
+  * Synthesis & Timing: Synopsys Design Compiler, PrimeTime
+  * Implementation: Cadence Innovus
+* FPGA Development
+  * Xilinx Vivado
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
